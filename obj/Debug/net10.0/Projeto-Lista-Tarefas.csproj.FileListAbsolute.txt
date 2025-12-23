@@ -1,0 +1,14 @@
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\bin\Debug\net10.0\Projeto-Lista-Tarefas.exe
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\bin\Debug\net10.0\Projeto-Lista-Tarefas.deps.json
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\bin\Debug\net10.0\Projeto-Lista-Tarefas.runtimeconfig.json
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\bin\Debug\net10.0\Projeto-Lista-Tarefas.dll
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\bin\Debug\net10.0\Projeto-Lista-Tarefas.pdb
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.AssemblyInfoInputs.cache
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.AssemblyInfo.cs
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.csproj.CoreCompileInputs.cache
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.dll
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\refint\Projeto-Lista-Tarefas.dll
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.pdb
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\Projeto-Lista-Tarefas.genruntimeconfig.cache
+D:\DOCS D\Estudos\DIO NET GIT GITHUB\Exercicios-C#\Projeto-Lista-Tarefas\obj\Debug\net10.0\ref\Projeto-Lista-Tarefas.dll
